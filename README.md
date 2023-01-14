@@ -15,3 +15,5 @@
 |3|Pur    |SCL|D22|
 |4|Green  |SEL|GND|
 |5|Black  |GND|GND|
+
+![image](https://user-images.githubusercontent.com/3289118/212481728-9b806b40-0661-4293-aa94-51444974d3bb.png)
