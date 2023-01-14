@@ -1,5 +1,5 @@
 # ESP SPS30
-
+![example workflow](https://github.com/arthurbenemann/ESP_SPS30/actions/workflows/ci.yml/badge.svg)
 ## BOM
 * Sensirion SPS30 sensor - [Amazon link](https://www.amazon.com/gp/product/B07M6RBLGL/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1) ([Datasheet](https://cdn.sparkfun.com/assets/4/e/e/f/8/Sensirion_PM_Sensors_Datasheet_SPS30.pdf),
 [Mechanical design guide](https://cdn.sparkfun.com/assets/4/6/0/6/1/SPS30_Mechanical_Design_and_Assembly_Guidelines_v1.0_D1.pdf))
