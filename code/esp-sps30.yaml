@@ -1,5 +1,12 @@
-esphome:
+substitutions:
   name: "esp-sps30"
+
+esphome:
+  name: "${name}"
+
+  # Automatically add the mac address to the name
+  # so you can use a single firmware for all devices
+  name_add_mac_suffix: true
 
 esp32:
   board: nodemcu-32s
